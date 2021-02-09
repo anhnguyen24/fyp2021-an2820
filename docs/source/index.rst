@@ -5,6 +5,8 @@ Welcome to fyp2020-username's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+modules 
+
 .. toctree::
    :maxdepth: 2
    :caption: Tutorial
