@@ -21,6 +21,7 @@ modules
    :hidden:
 
    _examples/tutorial/index
+   _examples/dengue/index
 
 Indices and tables
 ==================
